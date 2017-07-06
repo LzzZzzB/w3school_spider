@@ -1,2 +1,3 @@
 # w3school_spider
 w3school_spider
+通过scrapy爬取w3school网站的侧栏标题
